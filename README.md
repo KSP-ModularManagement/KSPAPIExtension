@@ -35,7 +35,7 @@ Detailed installation instructions are now on its own file (see the [In a Hurry]
 
 ### Licensing
 * KSP API Extensions /L is licensed under:
-	+ [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). See [here](./LICENSE.KSPAPIExtensions).
+	+ [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). See [here](./LICENSE).
 		+ You are free to:
 			- Share : copy and redistribute the material in any medium or format
 			- Adapt : remix, transform, and build upon the material for any purpose, even commercially. 
