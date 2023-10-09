@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KSPAPIExtensions", "Source\KSPAPIExtensions\KSPAPIExtensions.csproj", "{4282B0DA-C314-4524-9C32-EDAB2C9666A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4282B0DA-C314-4524-9C32-EDAB2C9666A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4282B0DA-C314-4524-9C32-EDAB2C9666A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4282B0DA-C314-4524-9C32-EDAB2C9666A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4282B0DA-C314-4524-9C32-EDAB2C9666A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{356A6382-0E0C-4EA4-AA52-624141509B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{356A6382-0E0C-4EA4-AA52-624141509B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{356A6382-0E0C-4EA4-AA52-624141509B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4440D39-1719-4684-B365-E1A64680AB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4440D39-1719-4684-B365-E1A64680AB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4440D39-1719-4684-B365-E1A64680AB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{637708FA-A704-4B0C-AB10-A517122B2C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{637708FA-A704-4B0C-AB10-A517122B2C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{637708FA-A704-4B0C-AB10-A517122B2C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.FileWidth = 132
+		$1.EolMarker = Unix
+		$1.scope = text/plain
+		$0.DotNetNamingPolicy = $2
+		$2.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.StandardHeader = $3
+		$3.Text = @/*\n\tThis file is part of KSPe, a component for KSP API Extensions/L\n\t(C) 2018-20 Lisias T : http://lisias.net <support@lisias.net>\n\n\tKSPe API Extensions/L is double licensed, as follows:\n\n\t* SKL 1.0 : https://ksp.lisias.net/SKL-1_0.txt\n\t* GPL 2.0 : https://www.gnu.org/licenses/gpl-2.0.txt\n\n\tAnd you are allowed to choose the License that better suit your needs.\n\n\tKSPe API Extensions/L is distributed in the hope that it will be useful,\n\tbut WITHOUT ANY WARRANTY; without even the implied warranty of\n\tMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\n\n\tYou should have received a copy of the SKL Standard License 1.0\n\talong with KSPe API Extensions/L. If not, see <https://ksp.lisias.net/SKL-1_0.txt>.\n\n\tYou should have received a copy of the GNU General Public License 2.0\n\talong with KSPe API Extensions/L. If not, see <https://www.gnu.org/licenses/>.\n\n*/
+		$0.VersionControlPolicy = $4
+		$0.TextStylePolicy = $5
+		$5.inheritsSet = null
+		$5.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $6
+		$6.SpaceAfterColonInBaseTypeDeclaration = False
+		$6.SpaceAfterSemicolonsInForStatement = False
+		$6.SpaceBeforeColonInBaseTypeDeclaration = False
+		$6.scope = text/x-csharp
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
