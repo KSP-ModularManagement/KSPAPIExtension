@@ -1,9 +1,12 @@
 # KSP API Extensions /L :: Change Log
 
+* 202?-????: 2.4.4.1 (Lisias) for KSP >= 1.2.2
+	+ We had moved!
+		- The Official Repository is now on https://github.com/KSP-ModularManagement/KSPAPIExtension
 * 2023-1009: 2.5.4.0 (Lisias) for KSP >= 1.2.2
-	+ First release after being extracted from [KSPe](https://github.com/net-lisias-ksp/KSPe).
+	+ First release after being extracted from [KSPe](https://github.com/KSP-ModularManagement/KSPe).
 	+ Closes Issues:
-		- [KSPe#60](https://github.com/net-lisias-ksp/KSPe/issues/60) Remove KSPAPIExtensions from this repository, moving it ao another one as I did with TinyJSON
+		- [KSPe#60](https://github.com/KSP-ModularManagement/KSPe/issues/60) Remove KSPAPIExtensions from this repository, moving it ao another one as I did with TinyJSON
 * 2015-0625: 1.7.5 (Swamp-Ig) for KSP 1.0.4
 	+ Recompile for KSP 1.0.4
 * 2015-0502: 1.7.4 (Swamp-Ig) for KSP 1.0
